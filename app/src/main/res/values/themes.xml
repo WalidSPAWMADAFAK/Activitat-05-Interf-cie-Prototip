@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.FUTWR" parent="Theme.Material3.DayNight.NoActionBar">
+
+
+        <item name="colorPrimary">@color/blau_marca_fosc</item>
+        <item name="colorSecondary">@color/blau_secundari_fosc</item>
+        <item name="android:windowBackground">@color/fons_fosc</item>
+
+
+        <item name="colorSurface">@color/superficie_fosca</item>
+        <item name="colorOnSurface">@color/text_sobre_superficie_fosc</item>
+
+    </style>
+
+</resources>
