@@ -85,7 +85,6 @@
                 android:textColor="#FFFFFF"
                 android:backgroundTint="#FF8000" />
 
-            <!-- Recuperar contraseña -->
             <TextView
                 android:id="@+id/tvRecuperarContrasena"
                 android:layout_width="match_parent"
